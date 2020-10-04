@@ -1,0 +1,6 @@
+create project 
+>>>: npm init
+
+install mysql and express packages 
+>>>: npm i --save mysql express
+>>>: npm i -g nodemon
